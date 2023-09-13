@@ -8,7 +8,7 @@ body::after {
     background: var(--main-BG);
     font-family: 'Outfit';
     padding: 2rem;
-    
+
     display: grid;
     place-items: center;
 }
@@ -81,6 +81,6 @@ main h2 {
 
 @media screen and (min-width: 375px) {
     main {
-        width: 40vw;
+        width: 20vw;
     }
 }
